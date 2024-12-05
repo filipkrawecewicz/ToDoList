@@ -1,8 +1,8 @@
 const state = {
     items: [
-        { text: "item 1", isDone: true },
+        { text: "item 1", isDone: false },
         { text: "item 2", isDone: false },
-        { text: "item 3", isDone: true },
+        { text: "item 3", isDone: false },
     ],
 };
 
